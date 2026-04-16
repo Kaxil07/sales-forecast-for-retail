@@ -47,12 +47,7 @@ The application is configured to use local CSV fallback data, so PostgreSQL is o
 
 To use this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-git clone https://github.com/gopiashokan/Retail-Sales-Forecast.git
-cd Retail-Sales-Forecast
-```
-2. Install the required packages:
+1. Install the required packages:
    ```bash
 pip install -r requirements.txt
 ```
