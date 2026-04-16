@@ -128,13 +128,6 @@ This repository is ready for GitHub-based deployment. The app uses local CSV dat
 - Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast weekly sales tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions.
 
 <br />
-
-**Contributing**
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-<br />
-
 **License**
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
